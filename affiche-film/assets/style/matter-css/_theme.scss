@@ -1,0 +1,50 @@
+@use 'components/checkboxes' with (
+  $matter-primary-rgb: var(--matter-primary-rgb),
+  $matter-onprimary-rgb: var(--matter-onprimary-rgb),
+
+  $matter-secondary-rgb: var(--matter-secondary-rgb),
+  $matter-onsecondary-rgb: var(--matter-onsecondary-rgb),
+
+  $matter-error-rgb: var(--matter-error-rgb),
+  $matter-error-rgb: var(--matter-error-rgb),
+
+  $matter-warning-rgb: var(--matter-warning-rgb),
+  $matter-onwarning-rgb: var(--matter-onwarning-rgb),
+
+  $matter-success-rgb: var(--matter-success-rgb),
+  $matter-onsuccess-rgb: var(--matter-onsuccess-rgb)
+);
+
+/* CSS variables for MatterCSS */
+:root {
+  --matter-primary-rgb: 33, 150, 243;
+  --matter-onprimary-rgb: 255, 255, 255;
+
+  --matter-secondary-rgb: 102, 0, 238;
+  --matter-onsecondary-rgb: 255, 255, 255;
+
+  --matter-error-rgb: 238, 0, 0;
+  --matter-error-rgb: 255, 255, 255;
+
+  --matter-warning-rgb: 238, 102, 0;
+  --matter-onwarning-rgb: 255, 255, 255;
+
+  --matter-success-rgb: 17, 136, 34;
+  --matter-onsuccess-rgb: 255, 255, 255;
+}
+
+/* SCSS variables for my custom MatterCSS */
+$matter-primary-rgb: 33, 150, 243;
+$matter-onprimary-rgb: 255, 255, 255;
+
+$matter-secondary-rgb: 102, 0, 238;
+$matter-onsecondary-rgb: 255, 255, 255;
+
+$matter-error-rgb: 238, 0, 0;
+$matter-error-rgb: 255, 255, 255;
+
+$matter-warning-rgb: 238, 102, 0;
+$matter-onwarning-rgb: 255, 255, 255;
+
+$matter-success-rgb: 17, 136, 34;
+$matter-onsuccess-rgb: 255, 255, 255;
