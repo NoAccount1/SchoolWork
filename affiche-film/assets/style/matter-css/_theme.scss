@@ -1,4 +1,4 @@
-@use 'components/checkboxes' with (
+@use 'bundle' with (
   $matter-primary-rgb: var(--matter-primary-rgb),
   $matter-onprimary-rgb: var(--matter-onprimary-rgb),
 
