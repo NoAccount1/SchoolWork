@@ -1,10 +1,10 @@
 # Contribueurs
 Voici la liste des auteurs ou participants de ce projet inculant la liste des sources.
 
-## Auteurs
+## Auteur(s)
  * Matthieu GRUNNAGEL
- * Iary ANDRIANARISATA
- * Killian BERTHIER
+ <!-- * Iary ANDRIANARISATA
+ * Killian BERTHIER -->
 
 ## Contributions
  * [Ben SZABO](https://codepen.io/finnhvman) - Développeur CSS sur CodePen

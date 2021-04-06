@@ -1,0 +1,97 @@
+html, body {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 20px;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 110, 255, 0.836)), to(#91d7ff)) fixed;
+}
+
+main {
+  padding: 20px;
+}
+
+main h1 {
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  background-color: white;
+  border: black 3px solid;
+  border-radius: 5px;
+  width: 300px;
+}
+
+main img {
+  float: left;
+  margin: 10px;
+  border-radius: 5px;
+  width: 200px;
+}
+
+main .actors {
+  width: 100%;
+  height: 100%;
+  display: inline;
+}
+
+main .actors button {
+  padding-left: 10px;
+}
+
+main .actors i {
+  display: inline;
+  float: left;
+  margin: 24px 5px 16px;
+  font-size: 24px;
+}
+
+main .actors h2 {
+  margin-left: 220px;
+}
+
+main .actors ul {
+  margin-left: 220px;
+  padding: 10px 30px;
+  background-color: orange;
+  border: 2px black solid;
+  border-radius: 5px;
+}
+
+main .actions img, main .actions svg {
+  width: 24px;
+  height: 24px;
+  margin: 7px 0;
+  padding: 0;
+  fill: black;
+}
+
+main .actions span[text-btn] {
+  padding: 7px 0;
+  vertical-align: top;
+}
+
+main .actions [separator] {
+  display: unset;
+  margin: 5px;
+}
+
+main .synopsis {
+  background-color: #ff6666;
+  padding: 10px;
+  border-radius: 5px;
+  float: left;
+}
+
+main .synopsis h2 {
+  display: inline;
+}
+
+main .synopsis p {
+  border: black 2px solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 0;
+}
+/*# sourceMappingURL=style.css.map */
